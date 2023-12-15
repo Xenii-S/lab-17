@@ -1,14 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e6a5972-1bef-4046-9ab1-d80b0634c95d" name="Changes" comment="" />
+    <list default="true" id="0e6a5972-1bef-4046-9ab1-d80b0634c95d" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/lab2/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/EmployeeView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/MVCPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/MVCPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/StudentView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/StudentView.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -22,7 +46,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/kseni/IdeaProjects/lab-17/src/lab2/Demo.java",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "two.files.diff.last.used.file": "C:/Users/kseni/IdeaProjects/lab-17/src/lab2/Demo.java"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -35,5 +62,9 @@
       <updated>1702670259293</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
